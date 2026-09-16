@@ -337,4 +337,3 @@ The analysis can help identify:
 This project demonstrates an end-to-end data analytics workflow from official data preparation and validation to SQL analysis, business insights, and a 3-page interactive Power BI dashboard.
 **Completed**
 
-This project demonstrates an end-to-end data analytics workflow from official data preparation and validation to SQL analysis, business insights, and a 3-page interactive Power BI dashboard.
